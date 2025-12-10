@@ -1,4 +1,6 @@
 # server-starter-code
+Kevin Sanchez Salazar
+github username: ks731
 
 This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
 
